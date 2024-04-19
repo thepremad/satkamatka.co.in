@@ -1,0 +1,32 @@
+[07-Mar-2024 20:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7
+[07-Mar-2024 20:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Unit/ExampleTest.php on line 7

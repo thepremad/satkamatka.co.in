@@ -1,0 +1,32 @@
+[07-Mar-2024 20:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11
+[07-Mar-2024 20:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/database/factories/UserFactory.php on line 11

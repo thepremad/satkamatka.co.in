@@ -1,0 +1,32 @@
+[07-Mar-2024 20:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7
+[07-Mar-2024 20:41:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/TestCase.php on line 7

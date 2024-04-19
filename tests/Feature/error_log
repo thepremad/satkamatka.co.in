@@ -1,0 +1,32 @@
+[07-Mar-2024 20:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8
+[07-Mar-2024 20:26:13 UTC] PHP Fatal error:  Uncaught Error: Class "Tests\TestCase" not found in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/tests/Feature/ExampleTest.php on line 8

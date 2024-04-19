@@ -1,0 +1,64 @@
+[07-Mar-2024 20:59:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 20:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/GameResource.php on line 9
+[07-Mar-2024 21:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12
+[07-Mar-2024 21:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Resources\Json\JsonResource" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Resources/UserProfileCollection.php on line 12

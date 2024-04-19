@@ -1,0 +1,32 @@
+[07-Mar-2024 20:37:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8
+[07-Mar-2024 20:37:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Console/Kernel.php on line 8

@@ -1,0 +1,64 @@
+[07-Mar-2024 20:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 20:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/StoreGameNameRequest.php on line 7
+[07-Mar-2024 21:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:03:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7
+[07-Mar-2024 21:04:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Requests/UpdateGameNameRequest.php on line 7

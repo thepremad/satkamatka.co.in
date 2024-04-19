@@ -1,0 +1,264 @@
+[07-Mar-2024 20:19:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 20:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/AdminAuthController.php on line 15
+[07-Mar-2024 21:11:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DashboardController.php on line 18
+[07-Mar-2024 21:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/DeclareResultController.php on line 16
+[07-Mar-2024 21:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:26:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:26:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:27:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:27:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNumberController.php on line 13
+[07-Mar-2024 21:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:32:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/MoneyRequestController.php on line 11
+[07-Mar-2024 21:36:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:36:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/UserController.php on line 15
+[07-Mar-2024 21:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/WinningPredictionController.php on line 9
+[07-Mar-2024 21:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:38:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13
+[07-Mar-2024 21:39:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Controllers/Admin/GameNameController.php on line 13

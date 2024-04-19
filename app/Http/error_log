@@ -1,0 +1,32 @@
+[07-Mar-2024 21:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7
+[07-Mar-2024 21:13:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Http/Kernel.php on line 7

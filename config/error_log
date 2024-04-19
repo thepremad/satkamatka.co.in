@@ -1,0 +1,388 @@
+[07-Mar-2024 20:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/app.php on line 19
+[07-Mar-2024 20:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/broadcasting.php on line 18
+[07-Mar-2024 20:40:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:41:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/cache.php on line 18
+[07-Mar-2024 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/database.php on line 18
+[07-Mar-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:45:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/filesystems.php on line 16
+[07-Mar-2024 20:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/hashing.php on line 32
+[07-Mar-2024 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:46:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/logging.php on line 21
+[07-Mar-2024 20:49:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/queue.php on line 16
+[07-Mar-2024 20:49:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:49:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/sanctum.php on line 18
+[07-Mar-2024 20:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/services.php on line 18
+[07-Mar-2024 20:51:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/matkampa/dpmatkaboss.online/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/session.php on line 21
+[07-Mar-2024 20:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17
+[07-Mar-2024 20:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/matkampa/dpmatkaboss.online/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/config/view.php on line 17

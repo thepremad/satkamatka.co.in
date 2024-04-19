@@ -1,0 +1,448 @@
+[07-Mar-2024 20:40:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:40:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:41:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:41:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:41:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/DoublePana.php on line 8
+[07-Mar-2024 20:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:45:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:45:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:46:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameBid.php on line 8
+[07-Mar-2024 20:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameName.php on line 9
+[07-Mar-2024 20:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameRate.php on line 8
+[07-Mar-2024 20:59:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 20:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 20:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 20:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 21:00:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 21:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 21:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameResult.php on line 8
+[07-Mar-2024 21:01:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:01:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:02:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/GameTime.php on line 8
+[07-Mar-2024 21:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:04:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/JodiDigit.php on line 8
+[07-Mar-2024 21:05:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:05:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/MoneyRequest.php on line 8
+[07-Mar-2024 21:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:08:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SingleDigit.php on line 8
+[07-Mar-2024 21:10:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/SinglePana.php on line 9
+[07-Mar-2024 21:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:11:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/TripplePana.php on line 8
+[07-Mar-2024 21:13:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:13:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:14:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Auth\User" not found in /home3/matkampa/dpmatkaboss.online/app/Models/User.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/User.php on line 12
+[07-Mar-2024 21:16:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/WalletTransaction.php on line 8
+[07-Mar-2024 21:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:18:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8
+[07-Mar-2024 21:18:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/app/Models/Winner.php on line 8

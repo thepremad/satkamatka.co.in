@@ -1,0 +1,32 @@
+[07-Mar-2024 20:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14
+[07-Mar-2024 20:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/matkampa/dpmatkaboss.online/bootstrap/app.php on line 14

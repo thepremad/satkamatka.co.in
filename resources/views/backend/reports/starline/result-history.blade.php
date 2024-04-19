@@ -1,0 +1,186 @@
+@extends('backend.layouts.app')
+
+@section('styles')
+<link href="http://kalyanmumbaimatka.com/adminassets/libs/select2/css/select2.min.css" rel="stylesheet"
+    type="text/css" />
+@endsection
+@section('content')
+<!-- BEGIN: Content-->
+<div class="app-content content ">
+    <div class="content-overlay"></div>
+    <div class="header-navbar-shadow"></div>
+    <div class="content-wrapper container-xxl p-0">
+        <div class="content-body">
+            <!-- Row grouping -->
+            <section id="row-grouping-datatable">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="">
+                                <!--<div class="row">-->
+                                <!--    <div class="col-12 col-sm-12 col-lg-12">-->
+                                <!--        <div class="row">-->
+                                <!--            <div class="col-sm-12 col-12 ">-->
+                                <!--                <div class="card">-->
+                                <!--                    <div class="card-body">-->
+                                <!--                        <h4 class="card-title">Game Result History</h4>-->
+                                <!--                        <form name="gameSrchFrm" method="get" action="{{route('admin.starline.user-bid-history')}}">-->
+                                <!--                            <div class="row">-->
+                                <!--                                <div class="form-group col-md-3">-->
+                                <!--                                    <label>Result Date</label>-->
+                                <!--                                    <div class="date-picker">-->
+                                <!--                                        <div class="input-group">-->
+                                <!--                                            <input class="form-control digits"-->
+                                <!--                                                type="date" -->
+                                <!--                                                name="bid_date"-->
+                                <!--                                                value="{{ isset($request->bid_date) ? $request->bid_date : date('Y-m-d') }}" >-->
+                                <!--                                        </div>-->
+                                <!--                                    </div>-->
+                                <!--                                </div>-->
+
+                                <!--                                <div class="form-group col-md-4">-->
+                                <!--                                    <label>Game Name </label>-->
+                                <!--                                    <select class="form-control" name="game_id"-->
+                                <!--                                        id="game_id">-->
+                                <!--                                        <option value="">Select Name</option>-->
+                                <!--                                        @foreach ($gameNameList as $key => $value)-->
+                                <!--                                        <option value="{{  $key }}" @if($key == $request->game_id) selected="selected" @endif />{{ $value}} </option>-->
+                                <!--                                        @endforeach-->
+                                <!--                                    </select>-->
+                                <!--                                </div>-->
+
+                                <!--                                <div class="form-group col-md-3">-->
+                                <!--                                    <label>Game Type</label>-->
+                                <!--                                    <select id="bid_type" name="bid_type" class="form-control">-->
+                            				<!--							<option value="">-Select Game Type-</option>	-->
+                                <!--                                        <option value="all-type" @if($request->bid_type == "all-type") selected="selected" @endif>All Type</option>-->
+                                <!--                                        <option value="single-digit" @if($request->bid_type == "single-digit") selected="selected" @endif>Single Digit</option>-->
+                                                                        
+                                <!--                                        <option value="single-panna" @if($request->bid_type == "single-panna") selected="selected" @endif>Single Pana</option>-->
+                                <!--                                        <option value="double-panna" @if($request->bid_type == "double-panna") selected="selected" @endif>Double Pana</option>-->
+                                <!--                                        <option value="tripple-panna" @if($request->bid_type == "tripple-panna") selected="selected" @endif>Triple Pana</option>-->
+                                                                        
+                            				<!--						</select>-->
+										
+                                <!--                                </div>-->
+
+                                <!--                                <div class="form-group col-md-2">-->
+                                <!--                                    <label>&nbsp;</label>-->
+                                <!--                                    <button type="submit"-->
+                                <!--                                        class="btn btn-primary btn-block" name="srchBtn">Go</button>-->
+                                <!--                                </div>-->
+                                <!--                            </div>-->
+                                <!--                            <div class="form-group">-->
+                                <!--                                <div id="error"></div>-->
+                                <!--                            </div>-->
+                                <!--                        </form>-->
+                                <!--                    </div>-->
+                                <!--                </div>-->
+                                <!--            </div>-->
+                                <!--        </div>-->
+                                <!--    </div>-->
+                                <!--</div>-->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="card">
+                                            <div class="card-body">
+                                                <h4 class="card-title">Game Result History</h4>
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered datatable_data">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Sr.no</th>
+                                                                <th>Game Name</th>
+                                                                <th>Result Date</th>
+                                                                <th>Declare Date</th>
+                                                                <th>Number</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody id="getBidHistory">
+                                                            <?php $i= 1;?>;
+                                                            @foreach($result as $bid)
+                                                                <tr>
+                                                                    <td>{{ $i }}</td>
+                                                                    <td> {{ $bid->game_name }}</td>
+                                                                    <td>{{ date('d M y',strtotime($bid->result_at)) }}</td>
+                                                                    <td> {{ date('d M y H:i:s',strtotime($bid->created_at)) }}</td>
+                                                                    <td> {{ $bid->result_number }}</td>
+                                                                    
+                                                                </tr>
+                                                                <?php $i++ ?>
+                                                            @endforeach
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!--/ Row grouping -->
+        </div>
+
+        <!-- The Modal -->
+        <div class="modal" id="marketModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <!-- Modal Header -->
+                    <div class="modal-header">
+                        <h4 class="modal-title">Update Bid</h4>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                    </div>
+                    <!-- Modal body -->
+                    <div class="modal-body">
+                        <div class="modal-dialog modal_right_side" role="document">
+                            <div class="modal-content col-12 col-xl-4">                                    
+                                <div class="modal-body modal_off_day">
+                                    <div id="markOfDayData"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Modal footer -->
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END: Content-->
+            
+        @endsection
+          @push('scripts')
+            <script>
+                function editBid(bid_id) {
+                    var formData = new FormData();                    
+                    formData.append('bid_id', bid_id);
+                    $.ajax({
+                        type: 'POST',
+                        // dataType: "json",
+                        url: "{{ route('admin.starline.get_bid_details') }}",
+                        data: formData,
+                        processData: false,
+                        contentType: false,
+                        headers: {
+                            'X-CSRF-TOKEN': '{{ csrf_token() }}'
+                        },
+                        beforeSend: function() {},
+                        success: function(data) {
+                            if ($.isEmptyObject(data.error)) {
+                                $('#marketModal').modal('show');
+                                console.log(data.data);
+                                $('#markOfDayData').html(data.data);
+                            } else {
+                                alert('something went wrong')
+                            }
+                        }
+                    });
+
+
+                }
+            </script>
+        @endpush
