@@ -61,6 +61,8 @@ class HomeController extends Controller
              $close_re = $close_game->result_number;
          }else{
              $close_sum = "*";
+
+             
              $close_re = "***";
          }
          
