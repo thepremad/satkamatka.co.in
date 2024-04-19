@@ -77,12 +77,42 @@ class HomeController extends Controller
     }
 
 
+    function getDigitResult($game_id,$date){
+        $open_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $game_id,'session' => 'open'])->first();
+        $close_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $game_id,'session' => 'close'])->first();
+
+        if(!empty($open_game)){
+            $open = self::sumValue($open_game->result_number);
+        }else{
+            $open = '*';
+        }
+        if(!empty($close_game)){
+            $close = self::sumValue($close_game->result_number);
+        }else{
+            $close = '*';
+        }
+        return $open.$close;
+        
+    }
 
 
     public function jodi($id){
         $new_array = [];
         
-        return view('frontend.calender');
+        $last_date = GameResult::orderBy('id','ASC')->first();
+        $start_date = Carbon::parse('2024-01-01'); // Replace '2024-01-01' with your actual start date
+        $current_date = Carbon::now();
+
+        $data = [];
+        while ($start_date->lessThanOrEqualTo($current_date)) {
+            $digit = $this->getDigitResult($id,$start_date->toDateString());
+            $data[] = ['date' => $start_date->toDateString() ,'digit' => $digit];
+            $start_date->addDay(); // Increment by one day
+        }
+
+        $game = GameName::find($id);
+        $game['result'] = self::GetGameResults($id);
+        return view('frontend.calender',compact('data','game'));
     }
 
     // private function sumValue($value)
