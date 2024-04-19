@@ -61,8 +61,6 @@ class HomeController extends Controller
              $close_re = $close_game->result_number;
          }else{
              $close_sum = "*";
-
-             
              $close_re = "***";
          }
          
@@ -81,88 +79,11 @@ class HomeController extends Controller
 
 
 
-    // public function jodi($id){
-    //     $new_array = [];
-    //     $get_last_data = DeclareGame::where('game_id',$id)->get();
-    //     $game_name = Game::where('id',$id)->first();
-    //     foreach($get_last_data as $key=>$val){
-            
-    //         $data = [
-    //                 'session' => $val->session,
-    //                 'date' => $val->date,
-    //                 'result_number' => $val->panna
-    //             ];
-    //         $date = date('Y-m-d', strtotime($val->date));
-    //         $new_array[$date][] = $data;
-    //     }
-    //     $all_data = [];
-
-    //     foreach($new_array as $key=>$val){
-    //         $weekNumber = date('W', strtotime($key));
-            
-    //         $week_day = date('w', strtotime($key));
-    //         if($week_day == 0){
-    //             $week_day = 7;   
-    //         }
-    //         $close_result = "";
-    //         $open_result = "";
-    //         foreach($val as $k=>$v){
-    //             if($v['session'] == '2'){
-    //                 $close_result = $v['result_number'];
-    //             }
-    //             if($v['session'] == '1'){
-    //                 $open_result = $v['result_number'];
-    //             }
-    //         }
-    //         $startDate = date('Y-m-d', strtotime("$key - " . date('N', strtotime($key)) . ' days'));
-    //         $endDate = date('Y-m-d', strtotime("$startDate + 6 days"));
-    //         $all_data[$weekNumber]['start_date'] = $startDate;
-    //         $all_data[$weekNumber]['end_date'] = $endDate;
-            
-            
-            
-            
-            
-    //         $sum_number_open = '';
-    //         $sum_number_close = '';
-    //         if(!empty($open_result)){
-    //             $sum_number_open  = self::sumValue($open_result);    
-    //         }
-    //         if(!empty($close_result)){
-    //             $sum_number_close = self::sumValue($close_result);    
-    //         }
-            
-    //         $all_data[$weekNumber]['data'][] = [ 
-    //             'w_number' => $weekNumber,
-    //             'w_day' => $week_day,
-    //             'open_result' => $open_result,
-    //             'close_result' =>$close_result,
-    //             'date' => $key,
-    //             'digit' => $sum_number_open.$sum_number_close,
-    //         ];
-    //     }
-    //     // echo "<pre>";
+    public function jodi($id){
+        $new_array = [];
         
-    //     $calender_data = [];
-    //     foreach($all_data as $key=>$val){
-    //         $new_data = [];
-    //         for($i=1 ; $i<=7 ; $i++){
-    //             $data = [];
-    //             foreach($val['data'] as $k=>$v){
-    //                 if($v['w_day'] == $i){
-    //                     $data = $v;
-    //                     continue;
-    //                 }
-    //             }
-    //             $new_data[] = $data;
-    //         }
-    //         $val['data'] = $new_data;
-    //         $calender_data[] = $val;
-    //     }
-        
-        
-    //     return view('frontend.calender',compact('calender_data','game_name'));
-    // }
+        return view('frontend.calender');
+    }
 
     // private function sumValue($value)
     // {

@@ -121,7 +121,7 @@
                     </div>
                     <div class="col-md-4">
                         <i class="dphome-fivewp-i2">{{$vall->name}}</i>
-                        <i class="dphome-fivewp-i3">{{$vall->open}} {{"-".$vall->last_open}}{{$vall->last_close."-"}} {{$vall->close}}</i>
+                        <i class="dphome-fivewp-i3">{{ $vall->result }}</i>
                         <i style="color: #000;">{{$vall->start_time}}    {{$vall->end_time}}</i>
                     </div>
                     <div class="col-md-4" style="text-align: end;">
@@ -897,7 +897,23 @@
 
     </section>
 
+<div style="padding: 5px;">
+    <a href="{{ asset('public/app-release.apk') }}" style="
+        position: fixed;
+        bottom: 9px;
+        left: 5px;
+        padding: 5px 8px;
+        font-size: 15px;
+        border: 1px solid #fff;
+        text-decoration: none;
+        background-color: #039;
+        color: #fff;
+        border-radius: 5px;
+    "> 
+        Matka Play
+    </a>
 
+</div>
 
 
 
