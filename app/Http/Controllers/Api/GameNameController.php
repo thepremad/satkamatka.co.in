@@ -31,9 +31,6 @@ class GameNameController extends Controller
     use ResponseWithHttpRequest;
     function getAllGame(Request $request){
         
-
-        
-        
         $data = GameName::orderBy('today_open_time', 'asc')->get();
 		foreach($data as $key=>$val){
 			$val['result'] = $this->GetGameResults($val->id);
