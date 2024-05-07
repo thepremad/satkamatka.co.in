@@ -1,156 +1,189 @@
-<html class="loading" lang="en" data-textdirection="ltr">
-<!-- BEGIN: Head-->
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 
-<style>
-    
-h6.heading-bg {
-    text-align: center;
-    background: #3f51b5;
-    padding: 6px 0;
-    color: #fff;
-    font-weight: 700;
-    margin: 0;
-}
 
-th {
-    background: #ffc107 !important;
-    border: 1px solid #3f51b5;
-    padding: 0 !important;
-}
-tbody {
-    border: 1px solid #3f51b5;
-}
+<!DOCTYPE html>
 
-td {
-    /*border: 1px solid #03a9f4a8;*/
-}
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-.vertical-layout.vertical-menu-modern.navbar-floating.footer-static {
-    margin: 20px 12%;
-    border: 1px solid #3f51b5;
-}
+    <script async src="{{ asset('public/frontend/cdn.ampproject.js') }}"></script>
+    <title>{{ $game->name }} Panel Chart | Online Jodi Bracket</title>
+    <link rel="shortcut icon" href="{{ asset('public/favicon.png') }}">
+    <link rel="stylesheet" href="{{ asset('public/frontEnd/css/panel.css') }}">
 
-.bodyhead-bg {
-    margin: 6px 2px;
-    line-height: 1.4;
-    font-size: 14px;
-    padding: 4px 10px;
-    color: #00094d;
-    text-shadow: 1px 1px 2px #fff;
-    box-shadow: 0 0 20px 0 rgb(0 0 0 / 40%);
-    border: 1px solid #000;
-    text-align: center;
-}
-td {
-    background: #D0E7D2 !important;
-    text-align: center;
-}
-.vertical-text {
-        writing-mode: vertical-lr; /* This rotates text vertically */
-        transform: rotate(180deg); /* This is for better browser compatibility */
-    }
-    
-    .panna-text{
-        letter-spacing: 6px;
-    font-weight: 600;
-    }
-    
-    tbody tr td:nth-child(2), tbody tr td:nth-child(5), tbody tr td:nth-child(8), tbody tr td:nth-child(11), tbody tr td:nth-child(14), tbody tr td:nth-child(17), tbody tr td:nth-child(20), tbody tr td:nth-child(25) {
-        /*border-right-width: 0;*/
-        /*font-size: 13px;*/
-        border-right-width: 0 !important;
-        /*font-size: 13px;*/
-        border: 1px solid #3f51b5;
-    }
-    
-</style>
+    <style>
+        
+        .panel.panel-info {
+            border: 1px solid #3f51b5;
+            border-radius: 5px;
+            width: 70%;
+            margin: 0 auto 0;
+        }
 
-<body style="background-color: #D0D4CA;">
-    
-    <div class="bodyhead-bg">
-        <h4 style="font-wight: 600;">{{ $game_name->name }}</h4>
-        <!--<h4 style="color: #880e4f;font-wight: 600;">356-49-135</h4>-->
-        <button style="border: 1px solid #e6e6e6;
-            background: #522f92;
+        tbody td {
+            padding: 5px 0;
+            font-size: 24px;
+        }
+
+        .panel.panel-info .panel-heading h1 {
+            font-size: 24px;
             color: #fff;
-            padding: 5px 7px;
-            font-size: 14px;
-            font-wight: 600;
-            margin: 2px 0 -1px;
+            text-shadow: 0px 0px;
+            line-height: 40px;
+            font-weight: 800;
+        }
+
+        thead {
+            background-color: #ffc107;
+            text-shadow: 1px 1px 2px #9a7400ab;
+        }
+
+        .button2 {
+            background-color: #a0d5ff;
+            color: #220c82;
+            padding: 10px 30px;
+            font-size: 16px;
+            margin: 20px auto;
+            border-radius: 10px;
+            border: 2px solid #0000005c;
+            font-weight: 800;
+            text-shadow: 1px 1px #00bcd4;
+            box-shadow: 0 8px 10px 0 rgba(0,0,0,.2), 0 6px 8px 0 rgba(0,0,0,.19);
             display: inline-block;
             transition: all .3s;
-            cursor: pointer;
-            text-shadow: none;
-            text-decoration: none;">Refresh Result</button>
+            text-align: center;
+            font-family: sans-serif;
+        }
+        tbody, td, tfoot, th, thead, tr{
+            border-color:#000;
+        }
+        tr td{
+            /*min-width:100px;*/
+            padding:5px 0 !important;
+        }
+        td.Dates{
+            font-size:15px;
+            line-height:20px;
+        }
+        td.Dates span{
+            font-size:16px;
+        }
+    </style>
+
+</head>
+<body>
+
+
+    
+    <div class="logo">
+        <a href="{{ url('/') }}">
+            <img src="{{ asset('public/logo.png') }}" alt="Image of DPBOSS365.NET" width="220" height="88">
+        </a>
     </div>
+            
+  
 
-<div class="vertical-layout vertical-menu-modern  navbar-floating footer-static  " data-open="click"
-    data-menu="vertical-menu-modern" data-col="">
+    <div id="top"></div>
+        <a href="#bottom" class="button2">Go to Bottom </a>
+        <div class="container-fluid">
+            <div>
+                <div class="panel panel-info">
+                    <div class="panel-heading text-center" style="background: #3f51b5;">
+                        <h1>
+                            <span id="ContentPlaceHolder1_lbl_BazarName">{{ $game->name ?? '' }}</span>
+                        </h1>
+                    </div>
+                    <div class="panel-body">
+                        <div class="table-responsive">
+                            <table class=" table panel-chart chart-table table-bordered" cellpadding="2">
+                                <thead>
+                                    <tr>
+                                        <th>Date</th>
+                                        <th>Mon</th>
+                                        <th>Tue</th>
+                                        <th>Wed</th>
+                                        <th>Thu</th>
+                                        <th>Fri</th>
+                                        <th>Sat</th>
+                                        <th>Sun</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <div id="ContentPlaceHolder1_UP_BazarJodiChart">
+                                        @foreach ($week_data as $key => $data)
+
+                                        <tr>
+                                            <td class="Dates">
+                                                <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_WSdate_22">{{ $key }}</span>
+                                                <br />
+                                                to
+                                                <br />
+                                                
+                                                <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_WEdate_22"> {{ \Carbon\Carbon::parse($key)->endOfWeek()->format('Y-m-d') }} </span>
+                                            </td>
+                                            @foreach ($data as $item)
+
+                                                <td>
+                                                    <div class="d-flex flex-nowrap align-items-center justify-content-between">
+                                                        <div class="left_content">
+                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultLeft_22" >{{ $item['open_panna'] ?? '' }}</span>
+                                                        </div>
+                                                        <div class="middle_content">
+                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultCenter_22" >{{ $item['close_panna'] ?? '' }}</span>
+                                                        </div>
+                                                        <div class="right_content">
+                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultRight_22" >{{ $item['digit'] ?? '' }}</span>
+                                                        </div>
+                                                    </div>
+                                                </td>    
+                                            @endforeach
+                                        @endforeach
+                                        
+                                    </div>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <center>
+                <div id="bottom"></div>
+                <a href="#top" class="button2">Go to Top </a>
+            </center>
+        </div>
+    </div>
     
     
+    <style>
+            .logo {
+        padding: 6px;
+    }
+    
+    .logo a span {
+        font-size: 30px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 600;
+    }
+    
+    .logo .head {
+        font-family: 'Dancing Script', cursive;
+        margin-right: 2px;
+        font-size: 60px;
+        color: #eb008b;
+    }
+    
+    .para2 {
+    border-width: 3px;
+    border: 2px solid #0014e2;
+    margin-bottom: 5px;
+    border-style: outset;
+    border-radius: 10px;
+    border: 2px solid #ff182c;
+    box-shadow: 0 0 20px 0 rgb(0 0 0 / 40%);
+} 
+    </style>
    
-
-
-    <table class="table" id="datatable_data">
-        <h6 class="heading-bg">{{ $game_name->name }} PANEL RECORD 2018 - 2023</h6>
-        <thead>
-            <tr style="text-align: center;">
-                <th>Date</th>
-                <th colspan="3">Sun</th>
-                <th colspan="3">Mon</th>
-                <th colspan="3">Tue</th>
-                <th colspan="3">Wed</th>
-                <th colspan="3">Thu</th>
-                <th colspan="3">Fri</th>
-                <th colspan="3">Sat</th>
-            </tr>
-        </thead>
-        <tbody>
-             @foreach($calender_data as $key=>$val)
-             <tr>
-                <th style="text-align: center;">{{ $val['start_date'] }} <br>to <br>{{ $val['end_date'] }}</th>
-               @foreach($val['data'] as $k=>$v)
-                <td>
-                    @if(!empty($v))
-                        {{ substr($v['open_result'], 0, 1) }}
-                        <br>
-                        {{ substr($v['open_result'], 1, 1) }}
-                        <br>
-                        {{ substr($v['open_result'], 2, 1) }}
-                    @endif
-                </td>
-                <td style="vertical-align: middle;
-    font-weight: 500;
-    font-size: 19px;">
-                    @if(!empty($v['digit']))
-                        {{ $v['digit'] }}
-                    @endif
-                </td>
-                <td>
-                    @if(!empty($v['close_result']))
-                        {{ substr($v['close_result'], 0, 1) }}
-                        <br>
-                        {{ substr($v['close_result'], 1, 1) }}
-                        <br>
-                        {{ substr($v['close_result'], 2, 1) }}
-                    @endif
-                </td>
-               @endforeach
-            </tr>
-             @endforeach
-           
-        </tbody>
-    </table>
-
-</div>
 </body>
-
-
 </html>
-
-
-
-      
