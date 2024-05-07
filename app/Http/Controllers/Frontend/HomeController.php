@@ -32,20 +32,8 @@ class HomeController extends Controller
     }
 
     function GetGameResults($id){
-	    
-        // echo $id;die;
-        // Get the current date and time using Carbon
          $currentDateTime = Carbon::now();
-     
-         // Check if the current time is before 5 AM
-        //  if ($currentDateTime->hour < 5) {
-        //      // Subtract one day from the current date
-        //      $currentDateTime->subDay();
-        //  }
-     
-         // Format the date for the view
          $date = $currentDateTime->toDateString();
-         
          $open_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $id,'session' => 'open'])->orderby('id','DESC')->first();
          $close_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $id,'session' => 'close'])->orderby('id','DESC')->first();
          if(!empty($open_game)){
@@ -63,10 +51,39 @@ class HomeController extends Controller
              $close_sum = "*";
              $close_re = "***";
          }
-         
-         
+
          return $open_re.'-'.$open_sum.$close_sum.'-'.$close_re;
-     }
+    }
+
+    function getResultDigits($id , $date){
+        // $currentDateTime = Carbon::now();
+        // $date = $currentDateTime->toDateString();
+        $open_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $id,'session' => 'open'])->orderby('id','DESC')->first();
+        $close_game = GameResult::whereDate('result_at',$date)->where(['game_id' => $id,'session' => 'close'])->orderby('id','DESC')->first();
+        if(!empty($open_game)){
+            $open_sum = self::sumValue($open_game->result_number);
+            $open_re = $open_game->result_number;
+        }else{
+            $open_sum = "*";
+            $open_re = "***";
+        }
+
+        if(!empty($close_game)){
+            $close_sum = self::sumValue($close_game->result_number);
+            $close_re = $close_game->result_number;
+        }else{
+            $close_sum = "*";
+            $close_re = "***";
+        }
+
+        // return $open_re.'-'.$open_sum.$close_sum.'-'.$close_re;
+
+        return [
+            'open_digit' => $open_re,
+            'digit' => $open_sum.$close_sum,
+            'close_digit' => $close_re
+        ];
+   }
 
      private function sumValue($value)
     {
@@ -114,6 +131,47 @@ class HomeController extends Controller
         $game['result'] = self::GetGameResults($id);
         return view('frontend.calender',compact('data','game'));
     }
+
+    function panel($id){
+        $game = GameName::find($id);
+        $new_array = [];
+
+        $game = GameName::find($id);
+        $new_array = [];
+
+        // Get the first game result
+        $last_date = GameResult::orderBy('id', 'ASC')->first();
+        $start_date = Carbon::parse($last_date->result_at);
+        $current_date = Carbon::now();
+
+        $data = [];
+        $week_data = [];
+        $week_start_date = $start_date->copy()->startOfWeek();
+
+        while ($week_start_date->lessThanOrEqualTo($current_date)) {
+            $data = [];
+            $end_of_week = $week_start_date->copy()->endOfWeek();
+
+            while ($start_date->lessThanOrEqualTo($end_of_week) && $start_date->lessThanOrEqualTo($current_date)) {
+                $digit = $this->getResultDigits($id , $start_date->toDateString());
+                $data[] = ['date' => $start_date->toDateString(), 'open_panna' => $data['open_digit'] ?? '' , 'close_panna' => $data['close_digit'] ?? '' , 'digit' => $data['digit'] ?? ''];
+                $start_date->addDay();
+            }
+
+            $week_data[$week_start_date->toDateString()] = $data;
+            $week_start_date->addWeek();
+        }
+
+        // Add the last week's data if there's any
+        if (!empty($data)) {
+            $week_data[$week_start_date->toDateString()] = $data;
+        }
+
+        // echo "<pre>";
+        // print_r($week_data);die;
+        return view('frontend.panel',compact('game','week_data'));
+    }
+
 
     // private function sumValue($value)
     // {

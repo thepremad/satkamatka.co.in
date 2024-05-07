@@ -10,27 +10,8 @@
 <meta name="keywords" content="{{ $game->name }} Jodi matka chart, {{ $game->name }} Jodi bazar chart, {{ $game->name }} Jodi chart, {{ $game->name }} Jodi record, {{ $game->name }} Jodi bazar record" />
 
 <meta name="robots" content="INDEX, FOLLOW, ARCHIVE" />
-<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@type": "NewsArticle",
-		"author": "dpboss.services",
-		"headline": "Open-source framework for publishing content",
-		"datePublished": "2015-10-07T12:02:41Z",
-		"image": [
-			"logo.jpg"
-		],
-		"publisher": {
-      "@type": "Organization",
-      "name": "DPBOSS",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://dpboss.services/logo.png"
-      }
-    }
-	}
-</script>
-{{-- <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script> --}}
+
+
 
 
 <link rel="shortcut icon" href="{{ asset('public/favicon.png') }}">
