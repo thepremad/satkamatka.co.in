@@ -131,10 +131,10 @@
                                                             <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultLeft_22" >{{ $item['open_panna'] ?? '' }}</span>
                                                         </div>
                                                         <div class="middle_content">
-                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultCenter_22" >{{ $item['close_panna'] ?? '' }}</span>
+                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultCenter_22" >{{ $item['digit'] ?? '' }}</span>
                                                         </div>
                                                         <div class="right_content">
-                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultRight_22" >{{ $item['digit'] ?? '' }}</span>
+                                                            <span id="ContentPlaceHolder1_Repe_BazarPanelList_lbl_MonResultRight_22" >{{ $item['close_panna'] ?? '' }}</span>
                                                         </div>
                                                     </div>
                                                 </td>    

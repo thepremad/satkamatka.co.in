@@ -123,9 +123,12 @@ class HomeController extends Controller
         $data = [];
         while ($start_date->lessThanOrEqualTo($current_date)) {
             $digit = $this->getDigitResult($id,$start_date->toDateString());
-            $data[] = ['date' => $start_date->toDateString() ,'digit' => $digit];
+            $data[] = ['date' => $start_date->toDateString() ,'digit' => $digit ,'day' => date('D',strtotime($start_date->toDateString()))];
             $start_date->addDay(); // Increment by one day
         }
+
+        // echo "<pre>";
+        // print_r($data);die;
 
         $game = GameName::find($id);
         $game['result'] = self::GetGameResults($id);
@@ -154,7 +157,10 @@ class HomeController extends Controller
 
             while ($start_date->lessThanOrEqualTo($end_of_week) && $start_date->lessThanOrEqualTo($current_date)) {
                 $digit = $this->getResultDigits($id , $start_date->toDateString());
-                $data[] = ['date' => $start_date->toDateString(), 'open_panna' => $data['open_digit'] ?? '' , 'close_panna' => $data['close_digit'] ?? '' , 'digit' => $data['digit'] ?? ''];
+
+                // print_r($digit);die;
+                // echo $digit;die;
+                $data[] = ['date' => $start_date->toDateString(), 'open_panna' => $digit['open_digit'] ?? '' , 'close_panna' => $digit['close_digit'] ?? '' , 'digit' => $digit['digit'] ?? ''];
                 $start_date->addDay();
             }
 
