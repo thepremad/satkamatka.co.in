@@ -169,12 +169,14 @@ class HomeController extends Controller
         }
 
         // Add the last week's data if there's any
-        if (!empty($data)) {
-            $week_data[$week_start_date->toDateString()] = $data;
-        }
+        // if (!empty($data)) {
+        //     $week_data[$week_start_date->toDateString()] = $data;
+        // }
 
         // echo "<pre>";
         // print_r($week_data);die;
+
+
         return view('frontend.panel',compact('game','week_data'));
     }
 
